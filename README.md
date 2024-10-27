@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kornass&label=Profile%20views&color=0e75b6&style=flat" alt="kornass" /> </p>
 
-- 🌱 I’m currently learning **Next.js, E2E testing, GraphQL**
+- 🌱 I’m currently learning **E2E testing, GraphQL**
 
 - 📫 How to reach me **kornasnorge@gmail.com**
 
